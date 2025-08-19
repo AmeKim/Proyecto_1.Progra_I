@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-    std::cout << "Hello World!\n";
+	cout << "Honestamente solo esoty haciendo pruebas\n";
 }
 
