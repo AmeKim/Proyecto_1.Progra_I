@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 // Proyecto1.cpp : Este archivo contiene la función "main". La ejecución del programa comienza y termina ahí.
 //
 
@@ -17,3 +18,13 @@ int main()
 //   4. Use la ventana Lista de errores para ver los errores
 //   5. Vaya a Proyecto > Agregar nuevo elemento para crear nuevos archivos de código, o a Proyecto > Agregar elemento existente para agregar archivos de código existentes al proyecto
 //   6. En el futuro, para volver a abrir este proyecto, vaya a Archivo > Abrir > Proyecto y seleccione el archivo .sln
+=======
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    cout << "Hello World!\n";
+}
+
+>>>>>>> Stashed changes
